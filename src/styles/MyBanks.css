@@ -1,0 +1,30 @@
+/* src/styles/MyBanks.css */  
+.my-banks {  
+    padding: 2rem;  
+  }  
+  
+  .bank-cards {  
+    display: grid;  
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));  
+    gap: 1rem;  
+  }  
+  
+  .bank-card {  
+    background-color: #f0f4ff;  
+    border-radius: 8px;  
+    padding: 1rem;  
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);  
+  }  
+  
+  .progress-bar {  
+    background-color: #e0e0e0;  
+    border-radius: 5px;  
+    height: 10px;  
+    margin-top: 0.5rem;  
+  }  
+  
+  .progress {  
+    background-color: #007bff;  
+    height: 100%;  
+    border-radius: 5px;  
+  }

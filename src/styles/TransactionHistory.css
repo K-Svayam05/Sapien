@@ -1,0 +1,26 @@
+/* src/styles/TransactionHistory.css */  
+.transaction-history {  
+    padding: 2rem;  
+  }  
+  
+  .account-info {  
+    background-color: #e0f7fa;  
+    padding: 1rem;  
+    border-radius: 8px;  
+    margin-bottom: 1rem;  
+  }  
+  
+  table {  
+    width: 100%;  
+    border-collapse: collapse;  
+  }  
+  
+  th, td {  
+    padding: 0.5rem;  
+    text-align: left;  
+  }  
+  
+  th {  
+    background-color: #007bff;  
+    color: white;  
+  }
