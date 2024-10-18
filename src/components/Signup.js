@@ -56,8 +56,8 @@ function Signup() {
     <div className="signup-container">
       <form className="signup-form" onSubmit={handleSubmit}>
         <div className="signup-logo">
-          <img src="/logo.svg" alt="Horizon logo" />
-          <h1>Horizon</h1>
+          <img src="C:\Users\Admin\OneDrive\Documents\VSCode Practice\Practice\MERN\Projects\Sapien\sapien\src\sapien.jpg" alt="Sapien logo" />
+          <h1>Sapien</h1>
         </div>
         <h2>Sign up</h2>
         <p>Please enter your details.</p>
